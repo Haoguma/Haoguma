@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haoguma
-- 👀 I’m interested in tech startups...
-- 🌱 I’m currently learning cloud architecture...
+- 👀 I’m interested in tech startups
+- 🌱 I’m currently learning cloud architecture
 - 💞️ I’m looking to collaborate on cloud solutions
 - 📫 How to reach me xh.xiehao@me.com
 
